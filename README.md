@@ -1,3 +1,6 @@
+# NEW
+Python version released.
+
 # CorporateMouseMover
 Automatic mouse mover every 1 minute for online status :-)
 
